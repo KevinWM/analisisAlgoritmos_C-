@@ -1,0 +1,36 @@
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\bin\Debug\proyecto1.exe
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\bin\Debug\proyecto1.pdb
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\obj\Debug\ProyectoAnalisis.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\obj\Debug\proyecto1.exe
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\obj\Debug\proyecto1.pdb
+C:\Users\Jonathan\Desktop\Proyecto_Analisis - copia\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\Jonathan\Desktop\Proyecto_Analisis - copia\proyecto1\obj\Debug\proyecto1.exe
+C:\Users\Jonathan\Desktop\Proyecto_Analisis - copia\proyecto1\obj\Debug\proyecto1.pdb
+C:\Users\Jonathan\Desktop\Proyecto_Analisis - copia\proyecto1\obj\Debug\ProyectoAnalisis.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Proyecto_Analisis - copia\proyecto1\bin\Debug\proyecto1.exe
+C:\Users\Jonathan\Desktop\Proyecto_Analisis - copia\proyecto1\bin\Debug\proyecto1.pdb
+F:\Todo\Escritorio\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\bin\Debug\proyecto1.exe.config
+F:\Todo\Escritorio\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\obj\Debug\proyecto1.exe
+F:\Todo\Escritorio\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\obj\Debug\proyecto1.pdb
+F:\Todo\Escritorio\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\bin\Debug\proyecto1.exe
+F:\Todo\Escritorio\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\bin\Debug\proyecto1.pdb
+F:\Todo\Escritorio\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\obj\Debug\ProyectoAnalisis.csprojResolveAssemblyReference.cache
+F:\Todo\Escritorio\progra analisis\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\bin\Debug\proyecto1.exe.config
+F:\Todo\Escritorio\progra analisis\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\obj\Debug\proyecto1.exe
+F:\Todo\Escritorio\progra analisis\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\obj\Debug\proyecto1.pdb
+F:\Todo\Escritorio\progra analisis\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\bin\Debug\proyecto1.exe
+F:\Todo\Escritorio\progra analisis\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\bin\Debug\proyecto1.pdb
+F:\Todo\Escritorio\progra analisis\Proyecto_Analisis - copia\Proyecto_Analisis - copia\proyecto1\obj\Debug\ProyectoAnalisis.csprojResolveAssemblyReference.cache
+F:\Todo\Escritorio\trabajoFinal\Proyecto_Analisis\proyecto1\bin\Debug\proyecto1.exe.config
+F:\Todo\Escritorio\trabajoFinal\Proyecto_Analisis\proyecto1\obj\Debug\proyecto1.exe
+F:\Todo\Escritorio\trabajoFinal\Proyecto_Analisis\proyecto1\obj\Debug\proyecto1.pdb
+F:\Todo\Escritorio\trabajoFinal\Proyecto_Analisis\proyecto1\bin\Debug\proyecto1.exe
+F:\Todo\Escritorio\trabajoFinal\Proyecto_Analisis\proyecto1\bin\Debug\proyecto1.pdb
+F:\Todo\Escritorio\trabajoFinal\Proyecto_Analisis\proyecto1\obj\Debug\ProyectoAnalisis.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Analisis de Algoritmos\Proyecto_1º\Proyecto_1º\Proyecto_Analisis\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Analisis de Algoritmos\Proyecto_1º\Proyecto_1º\Proyecto_Analisis\proyecto1\obj\Debug\proyecto1.exe
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Analisis de Algoritmos\Proyecto_1º\Proyecto_1º\Proyecto_Analisis\proyecto1\obj\Debug\proyecto1.pdb
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Analisis de Algoritmos\Proyecto_1º\Proyecto_1º\Proyecto_Analisis\proyecto1\bin\Debug\proyecto1.exe
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Analisis de Algoritmos\Proyecto_1º\Proyecto_1º\Proyecto_Analisis\proyecto1\bin\Debug\proyecto1.pdb
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 4º Semestre\Analisis de Algoritmos\Proyecto_1º\Proyecto_1º\Proyecto_Analisis\proyecto1\obj\Debug\ProyectoAnalisis.csprojResolveAssemblyReference.cache

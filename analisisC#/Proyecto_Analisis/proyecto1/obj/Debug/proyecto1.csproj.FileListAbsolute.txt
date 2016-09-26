@@ -1,0 +1,18 @@
+F:\Todo\Documentos\Visual Studio 2013\Projects\proyecto1\proyecto1\bin\Debug\proyecto1.exe.config
+F:\Todo\Documentos\Visual Studio 2013\Projects\proyecto1\proyecto1\obj\Debug\proyecto1.csprojResolveAssemblyReference.cache
+F:\Todo\Documentos\Visual Studio 2013\Projects\proyecto1\proyecto1\bin\Debug\proyecto1.exe
+F:\Todo\Documentos\Visual Studio 2013\Projects\proyecto1\proyecto1\bin\Debug\proyecto1.pdb
+F:\Todo\Documentos\Visual Studio 2013\Projects\proyecto1\proyecto1\obj\Debug\proyecto1.exe
+F:\Todo\Documentos\Visual Studio 2013\Projects\proyecto1\proyecto1\obj\Debug\proyecto1.pdb
+C:\Users\Jonathan\Desktop\proyecto1\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\Jonathan\Desktop\proyecto1\proyecto1\obj\Debug\proyecto1.exe
+C:\Users\Jonathan\Desktop\proyecto1\proyecto1\obj\Debug\proyecto1.pdb
+C:\Users\Jonathan\Desktop\proyecto1\proyecto1\bin\Debug\proyecto1.exe
+C:\Users\Jonathan\Desktop\proyecto1\proyecto1\bin\Debug\proyecto1.pdb
+C:\Users\Jonathan\Desktop\proyecto1\proyecto1\obj\Debug\proyecto1.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\obj\Debug\proyecto1.exe
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\obj\Debug\proyecto1.pdb
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\bin\Debug\proyecto1.exe
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\bin\Debug\proyecto1.pdb
+C:\Users\Jonathan\Desktop\proyecto_I\proyecto1\obj\Debug\proyecto1.csprojResolveAssemblyReference.cache
